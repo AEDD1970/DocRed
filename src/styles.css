@@ -1,1 +1,14 @@
 /* You can add global styles to this file, and also import other style files */
+@import '@angular/material/prebuilt-themes/deeppurple-amber.css';
+
+html, body { height: 100%; }
+body { margin: 0; font-family: Roboto, "Helvetica Neue", sans-serif; }
+
+html,body{
+    background-image: url('https://thumbs.dreamstime.com/b/atenci%C3%B3n-sanitaria-y-fondo-m%C3%A9dico-con-los-iconos-s%C3%ADmbolos-planos-concepto-de-la-tecnolog%C3%ADa-ciencia-medicina-innovaci%C3%B3n-140008777.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    height: 100%;
+    font-family: 'Numans', sans-serif;
+    }
+

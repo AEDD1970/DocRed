@@ -1,0 +1,16 @@
+.app-mensajes{
+    background:#dc3545;
+    height:450px;
+    width: 25%;
+    overflow:hidden;
+    padding:0;
+    margin: auto;
+    border-style: solid;
+    border-color: black;
+    overflow: scroll;
+}
+.message{
+
+    width: 26%!important;
+    margin-left: 37%;
+}
